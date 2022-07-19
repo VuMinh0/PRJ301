@@ -35,7 +35,7 @@
                                         <span class="auto-style1"><strong>Year</strong></span>
                                         <select name="ctl00$mainContent$drpYear" id="ctl00_mainContent_drpYear">
                                             <c:forEach var="i" begin="${thisYear-3}" end="${thisYear+1}">
-                                                <option value="${i}" ${i==thisChooseYear?'selected="slected"':''}>${i}</option>
+                                                <option value="${i}" ${i==thisChooseYear?'selected="selected"':''}>${i}</option>
                                             </c:forEach>
                                         </select>
                                     </div>

@@ -4,10 +4,7 @@
  */
 package model;
 
-/**
- *
- * @author dttnb
- */
+
 public class Student {
 
     private int id;

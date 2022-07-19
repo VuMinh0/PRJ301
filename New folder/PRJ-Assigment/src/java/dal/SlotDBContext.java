@@ -14,7 +14,7 @@ import model.Slot;
  */
 /**
  *
- * @author dai8p
+ * @author dttnb
  */
 public class SlotDBContext extends DBContext<Slot> {
     

@@ -6,10 +6,7 @@ package model;
 
 import java.sql.Date;
 
-/**
- *
- * @author dai8p
- */
+
 public class Attendance {
 
     private int id;

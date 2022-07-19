@@ -12,7 +12,7 @@ import java.util.LinkedHashMap;
 
 /**
  *
- * @author dai8p
+ * @author dttnb
  */
 public class TimeHelper {
 

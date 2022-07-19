@@ -4,10 +4,6 @@
  */
 package model;
 
-/**
- *
- * @author dttnb
- */
 public class Lecturer {
 
     private int id;

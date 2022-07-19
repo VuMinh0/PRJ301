@@ -14,7 +14,7 @@ import model.StudentClass;
 
 /**
  *
- * @author dai8p
+ * @author dttnb
  */
 public class StudentClassDBContext extends DBContext<StudentClass> {
 

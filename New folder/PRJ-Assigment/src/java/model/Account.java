@@ -4,10 +4,6 @@
  */
 package model;
 
-/**
- *
- * @author dttnb
- */
 public class Account {
 
     private int id;

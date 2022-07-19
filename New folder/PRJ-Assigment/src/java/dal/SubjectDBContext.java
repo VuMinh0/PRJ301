@@ -14,7 +14,7 @@ import model.Subject;
 
 /**
  *
- * @author dai8p
+ * @author dttnb
  */
 public class SubjectDBContext extends DBContext<Subject> {
 

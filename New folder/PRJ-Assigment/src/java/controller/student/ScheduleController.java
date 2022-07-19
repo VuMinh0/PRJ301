@@ -20,7 +20,7 @@ import model.StudentClass;
 
 /**
  *
- * @author dai8p
+ * @author dttnb
  */
 public class ScheduleController extends HttpServlet {
 
